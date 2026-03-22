@@ -1,0 +1,12 @@
+{
+  "appUrl": {
+    "url": "https://automationexercise.com/"
+  },
+  "prodCredentials": {
+    "username": "test@gmail.com",
+    "password": "test"
+  },
+  "project": {
+    "product": "Men Tshirt"
+  }
+}
